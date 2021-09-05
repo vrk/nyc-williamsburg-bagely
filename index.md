@@ -74,7 +74,7 @@ a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel
 </div>
 
 - I stopped in Lion's Milk on the way to work and I asked them if they had bagels, they said they didn't but they had simit sandwiches
-- and I got one mostly out of social awkwardness
+- and I got one mostly out of curiosity
 - but then it was soooo tasty
 - very warm, good bread-to-stuff ratio, nice amount of tanginess and saltiness
 - it was immediately added to my mental rotation of bagellikes in williamsburg
