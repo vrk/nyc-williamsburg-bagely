@@ -14,7 +14,7 @@ when I lived in san francisco, my friend sent me a google doc she had called "SF
 
 I've had this idea for years, to make a personal nyc travel guide thing for friends and internet visitors, but nyc is so big that every time I tried to sit down and make it, the whole task felt big and overwhelming and not fun and I'd give up.
 
-so I have a new angle: instead of trying to cover all of nyc, how about I just cover some very specific scenarios? and maybe even just one specific scenario entirely. I can't be trusted to make this a series.
+so I have a new angle: instead of trying to cover all of nyc, how about I just cover some very specific scenarios? (and maybe even just one specific scenario, total. I can't be trusted to make this a series.)
 
 with that, here is my guide on what I do when I'm in williamburg and I'm feeling bagel-y, as least as of september 2021.
 
