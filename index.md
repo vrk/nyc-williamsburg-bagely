@@ -1,6 +1,8 @@
 ---
 layout: main
 title: "bagellikes in williamsburg"
+desc: "here is my guide on what I do when I'm in williamburg and I'm feeling bagel-y, as least as of september 2021"
+socialImage: "images/bagel.png"
 ---
 
 # I'm craving bagels in Williamsburg 

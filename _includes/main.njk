@@ -10,11 +10,17 @@
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
     <link rel="shortcut icon" type="image/jpg" href="/images/bagel-fav.png"/>
   
-    <meta property="og:title" content="{{ title | escape }}">
+    <meta property="og:title" content="{{  title | escape }}">
     <meta property="og:type" content="website"/>
 
     {% if site.author.twitterHandle %}
       <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
+    {% endif %}
+
+    {% if desc %}
+      <meta name="description" content="{{ desc | escape  }}">
+      <meta property="og:description" content="{{ desc | escape }}">
+      <meta name="description" content="{{ desc | escape }}"/>
     {% endif %}
 
     {% if not socialImage %}
