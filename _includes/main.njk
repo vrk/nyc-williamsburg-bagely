@@ -9,6 +9,22 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=PT+Mono&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
     <link rel="shortcut icon" type="image/jpg" href="/images/bagel-fav.png"/>
+  
+    <meta property="og:title" content="{{ title | escape }}">
+    <meta property="og:type" content="website"/>
+
+    {% if site.author.twitterHandle %}
+      <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
+    {% endif %}
+
+    {% if not socialImage %}
+      {% set socialImage = site.defaultSocialImage %}
+    {% endif %}
+    {% if socialImage %}
+      <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
+      <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
+    {% endif %}
+
   </head>
 
   <body>
