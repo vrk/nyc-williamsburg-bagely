@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "bagellikes in williamsburg"
+title: "🥯 bagellikes in williamsburg"
 ---
 
 # I'm craving bagels in Williamsburg 
