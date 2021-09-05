@@ -131,7 +131,7 @@ if I'm scanning the list of bagellikes and not really feeling inspired, I also a
 
 ...like onigiri?
 - [Ten Inchi](https://g.page/tenichimartii?share) for salmon mayo onigiri
-- [3rdfloorbk](https://goo.gl/maps/6ZdmcHuCCNfZc4ueA) has tuna mayo onigiri AND spam onigiri, both of which are my favorites flavors! but I haven't actually had them from 3rdfloorbk, when I visited last time they were sold out 😭 but I mentally consider going here whenever I am mentally scanning snack places
+- [3rdfloorbk](https://goo.gl/maps/6ZdmcHuCCNfZc4ueA) has tuna mayo onigiri AND spam onigiri, which are my two favorites kinds! but I haven't actually had them from 3rdfloorbk, when I visited last time they were sold out 😭 but I mentally consider going here whenever I am mentally scanning snack places
 
 ...like kimbap?
 -   [Ms Ohho](https://g.page/Msohho?share) has tuna mayo kimbap that's v good
