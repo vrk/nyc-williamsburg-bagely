@@ -131,4 +131,4 @@ if I'm scanning the list of bagellikes and not really feeling inspired, I also a
 
 get your bagels and bagellikes here:
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YT0VFnEQg3BouSAF5IjDtjhvmE52If7P" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YT0VFnEQg3BouSAF5IjDtjhvmE52If7P" ></iframe>
