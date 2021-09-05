@@ -22,7 +22,8 @@ with that, here is my guide on what I do when I'm in williamburg and I'm feeling
 
 when I'm feeling bagel-y, I don't necessarily need a bagel - I get this feeling like "hmm I could eat a bagel right now" and then there's actually a set of food, broader than a bagel, that can satisfy this craving
 
-a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel. (etymologically inspired by the noun [roguelike](https://en.wikipedia.org/wiki/Roguelike))
+- a **bagellike**: a food that satisfies my bagel craving, even if not a bagel.
+- etymologically inspired by the noun [roguelike](https://en.wikipedia.org/wiki/Roguelike)
 
 ---
 
