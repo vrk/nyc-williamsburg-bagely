@@ -1,16 +1,16 @@
 html {
   background-color: white;
   color: #202124;
-  font-family: "Noto Serif KR", serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: 18px;
   line-height: 1.6;
-  margin: 2em;
-  max-width: 700px;
+  margin: 3em auto;
+  max-width: 900px;
   text-underline-position: under;
 }
 
 a {
-  color: #bc5090;
+  color: #e4493f;
 }
 
 a:hover {
@@ -25,6 +25,11 @@ h1,
 h2,
 h3 {
   line-height: 1.2;
+  color: #5a5a5a;
+}
+
+h2 {
+  margin-top: 2em;
 }
 
 hr {
@@ -37,10 +42,23 @@ ul {
   list-style-type: square;
 }
 
-/* Set the size of the div element that contains the map */
-#map {
-  height: 400px;
-  /* The height is 400 pixels */
+.feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 300px;
+}
+
+.map-top {
+  height: 100%;
+  width: 50%;
+  display: inline-block;
+}
+
+.feature p {
+  width: 40%;
+  display: inline-block;
+}
+.feature p img {
   width: 100%;
-  /* The width is the width of the web page */
 }
