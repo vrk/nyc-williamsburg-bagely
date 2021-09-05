@@ -51,6 +51,12 @@ ul {
   height: 300px;
 }
 
+@media only screen and (max-width: 600px) {
+.feature {
+  height: 200px;
+}
+}
+
 .map-top {
   height: 100%;
   width: 50%;
