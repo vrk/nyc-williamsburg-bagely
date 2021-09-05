@@ -3,7 +3,7 @@ layout: main
 title: "bagellikes in williamsburg"
 ---
 
-# I'm in Williamsburg and I'm feeling bagel-y
+# I'm craving bagels in Williamsburg 
 vrk's nyc guide sept 2021
 
 ---
@@ -12,15 +12,15 @@ vrk's nyc guide sept 2021
 
 when I lived in san francisco, my friend sent me a google doc she had called "SF: SEE EAT DRINK" with a list of all her recommendations for the city. I found it so helpful and charming, and I always meant to create my own version for nyc.
 
-I've had this idea for years, to make a "vrk recommends" nyc travel guide thing, but nyc is so big that every time I tried to sit down and make it, the whole task felt big and overwhelming and not fun and I'd give up.
+I've had this idea for years, to make a personal nyc travel guide thing for friends and internet visitors, but nyc is so big that every time I tried to sit down and make it, the whole task felt big and overwhelming and not fun and I'd give up.
 
-so I have a new angle: instead of trying to cover all of nyc, I'm just going to cover specific scenarios. and maybe just one specific scenario? I can't be trusted to make this a series.
+so I have a new angle: instead of trying to cover all of nyc, how about I just cover some very specific scenarios? and maybe even just one specific scenario entirely. I can't be trusted to make this a series.
 
 with that, here is my guide on what I do when I'm in williamburg and I'm feeling bagel-y, as least as of september 2021.
 
 ## feeling bagel-y
 
-when I'm feeling bagely, I don't necessarily need a bagel - I get this feeling like "hmm I could eat a bagel right now" and then there's actually a set of food, broader than a bagel, that can satisfy this craving
+when I'm feeling bagel-y, I don't necessarily need a bagel - I get this feeling like "hmm I could eat a bagel right now" and then there's actually a set of food, broader than a bagel, that can satisfy this craving
 
 a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel
 
