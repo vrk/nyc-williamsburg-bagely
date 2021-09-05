@@ -8,7 +8,7 @@ vrk's nyc guide sept 2021
 
 ---
 
-## what this is
+## what is this?
 
 when I lived in san francisco, my friend sent me a google doc she had called "SF: SEE EAT DRINK" with a list of all her recommendations for the city. I found it so helpful and charming, and I always meant to create my own version for nyc.
 
