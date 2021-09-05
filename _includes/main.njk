@@ -24,8 +24,8 @@
     {% endif %}
 
     {% if socialImage %}
-      <meta property="og:image" content="{{ socialImage | url }}"/>
-      <meta name="twitter:image" content="{{ socialImage | url }}"/>
+      <meta property="og:image" content="{{ site.url + socialImage | url }}"/>
+      <meta name="twitter:image" content="{{ site.url + socialImage | url }}"/>
     {% endif %}
 
   </head>
