@@ -22,7 +22,7 @@ with that, here is my guide on what I do when I'm in williamburg and I'm feeling
 
 when I'm feeling bagel-y, I don't necessarily need a bagel - I get this feeling like "hmm I could eat a bagel right now" and then there's actually a set of food, broader than a bagel, that can satisfy this craving
 
-a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel
+a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel. (etymologically inspired by the noun [roguelike](https://en.wikipedia.org/wiki/Roguelike))
 
 ---
 
@@ -114,13 +114,23 @@ a *bagellike*: a food that satisfies my bagel-y craving, even if not a bagel
 
 ---
 
-## not quite bagellikes
+## bagels outside williamsburg
+
+there are times when I am craving a specific bagel so hard that I'm willing to travel. 
+
+- [penny house cafe](https://goo.gl/maps/jy19X5bU8BdHm5oj8) for a sausage egg cheese bagel. ugh I took these for granted when I lived a few blocks away! when I am craving a sausage egg and cheese I am craving specifically this one, everything else is an imitation
+- [Mille-Feuille](https://goo.gl/maps/PZ4CYsvXMYUoZVtY9) for a ham & cheese croissant. they take a croissant, cut it in half, put ham & cheese inside, and then warm it up. it is _so good_
+- **hot bagels, anywhere**: I learned a tip recently that you can ask for _hot bagels_ wherever bagels are made fresh! like you can go in the morning and ask which bagels are hot out of the oven, and then you can get them not toasted, but hot - so they're very soft and they melt the butter or cheese just by being fresh. so goooood! but I don't know anywhere williamsburg that does this. go get your hot bagels outside the neighborhood!
+
+---
+
+## bagellikes with rice
 
 if I'm scanning the list of bagellikes and not really feeling inspired, I also ask myself, am I feeling...
 
 ...like onigiri?
-- [Ten Inchi](https://g.page/tenichimartii?share) has salmon mayo onigiri
-- [3rdfloorbk](https://goo.gl/maps/6ZdmcHuCCNfZc4ueA) has tuna mayo onigiri AND spam onigiri, both of which are my favorites, but I actually haven't tried either of them because I was recovering from wisdom teeth survery when I went by here 😭 so this is on my mental list of like, I should go by and try these onigiris
+- [Ten Inchi](https://g.page/tenichimartii?share) for salmon mayo onigiri
+- [3rdfloorbk](https://goo.gl/maps/6ZdmcHuCCNfZc4ueA) has tuna mayo onigiri AND spam onigiri, both of which are my favorites flavors! but I haven't actually had them from 3rdfloorbk, when I visited last time they were sold out 😭 but I mentally consider going here whenever I am mentally scanning snack places
 
 ...like kimbap?
 -   [Ms Ohho](https://g.page/Msohho?share) has tuna mayo kimbap that's v good

@@ -6,6 +6,7 @@ html {
   line-height: 1.6;
   margin: 3em auto;
   max-width: 900px;
+  width: 95%;
   text-underline-position: under;
 }
 
@@ -56,11 +57,13 @@ ul {
 }
 
 .feature p {
-  width: 40%;
-  display: inline-block;
+  width: 50%;
+  display: inline-flex;
 }
+
 .feature p img {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
 }
 
 iframe {
